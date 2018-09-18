@@ -10,7 +10,7 @@ import javax.swing.BorderFactory;
 
 /**
  *
- * @author lendle
+ * @author lendle 123
  */
 public class BorderSample extends javax.swing.JFrame {
 
